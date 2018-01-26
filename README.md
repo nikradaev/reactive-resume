@@ -1,5 +1,5 @@
 # reactive-resume
-react.js and bootstrap
+React.js and bootstrap
 
-result would be here, while i'm being a student od csu:
+**Result would be here, while i'm being a student od CSU:**
 http://www.cs.colostate.edu/~kolya/reactive-resume/
